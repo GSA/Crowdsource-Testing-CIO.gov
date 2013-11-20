@@ -13,9 +13,7 @@ Test Cycle Dates: December XX, 2013 to December XX, 2013
 
 Test Cycle Coordinator: David Fern david.fern@ssa.gov
 
-Important Test Cycle Links: 
-
-If the links do not work, you may not be able to access Google Docs. 
+If the links below do not work, you may not be able to access Google Docs. 
 
 If that is the case send me a mail and I will send you the documents.
 
