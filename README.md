@@ -20,8 +20,7 @@ If the links do not work, you may not be able to access Google Docs.
 If that is the case send me a mail and I will send you the documents.
 
 === Mobile_Testing_101.docx ===
-_______________________________
-
+-------------------------------
 ADD URL TO THE WIKI
 https://docs.google.com/document/d/1wQ8HWbpIk2qzcthuYjswC-FcU474aFb4qyrgYV3l0bs/edit?usp=drive_web 
 
