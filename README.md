@@ -25,9 +25,9 @@ https://docs.google.com/document/d/1wQ8HWbpIk2qzcthuYjswC-FcU474aFb4qyrgYV3l0bs/
 
 This document gives some terms and insights into testing mobile applications.
 
-=== Test_Cycle_Questionnaire_USDA_FSIS_2013_7.doc ===
+=== Test_Cycle_Questionnaire_CIO-GOV_2013_12.doc ===
 
-https://docs.google.com/document/d/103xEY-31R6hJ7Emkj7l5cFLGPjoIvt_TYRA3SkZ8-VM/edit?usp=drive_web
+INSERT URL TO GOOGLE DRIVE
 
 This document contains all of the applications specifics required to complete this test cycle.
 
@@ -37,9 +37,9 @@ https://docs.google.com/document/d/1qyPlWMVsJtX-_MFcBedsncMsIJQgyrGWQ1OR2SKdcDk/
 
 This document gives instructions for completing the “Test Case Template” 
 
-=== USDA_FSIS_Test_Case_7_2013v2.xlsx ===
+=== CIO-GOVS_Test_Case_12_2013.xlsx ===
 
-https://docs.google.com/spreadsheet/ccc?key=0Apwj1zG3FwNcdDMwSUMtYU53RzliQnZ3eXEzWVpvRkE&usp=drive_web#gid=1
+INSERT URL TO GOOGLE DRIVE
 
 This is the test case that you are to download, complete and email back to us.
 
