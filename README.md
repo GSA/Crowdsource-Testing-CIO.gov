@@ -34,7 +34,7 @@ This document contains all of the applications specifics required to complete th
 ---------------------------------------------
 https://docs.google.com/document/d/1qyPlWMVsJtX-_MFcBedsncMsIJQgyrGWQ1OR2SKdcDk/edit?usp=drive_web
 
-This document gives instructions for completing the “Test Case Template” 
+This document gives instructions for completing the “Test Case Template”. 
 
 === CIO.GOV Test Case 12/2013 ===
 ---------------------------------------
