@@ -21,6 +21,7 @@ If that is the case send me a mail and I will send you the documents.
 
 === Mobile_Testing_101.docx ===
 
+ADD URL TO THE WIKI
 https://docs.google.com/document/d/1wQ8HWbpIk2qzcthuYjswC-FcU474aFb4qyrgYV3l0bs/edit?usp=drive_web 
 
 This document gives some terms and insights into testing mobile applications.
@@ -45,7 +46,8 @@ This is the test case that you are to download, complete and email back to us.
 
 === Using Github.docx ===
 
+CORRECT THIS LINK TO BE THE ONE IN THE CIO GOOGLE DOCS FOLDER
 https://docs.google.com/document/d/1qzc4EViMz3r3Qg8DGf2MXdovJA0Kuv2DnhZVgjDvfV4/edit?usp=drive_web
 
-Instructions for using GitHub in the crowdsource testcycles.
+Instructions for using GitHub in the crowdsource test-cycles.
 
