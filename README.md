@@ -36,7 +36,7 @@ https://docs.google.com/document/d/1qyPlWMVsJtX-_MFcBedsncMsIJQgyrGWQ1OR2SKdcDk/
 
 This document gives instructions for completing the “Test Case Template” 
 
-=== CIO-GOV Test Case 12/2013 ===
+=== CIO.GOV Test Case 12/2013 ===
 ---------------------------------------
 INSERT URL TO GOOGLE DRIVE
 
